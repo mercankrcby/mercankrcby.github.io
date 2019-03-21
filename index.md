@@ -1,3 +1,9 @@
-### Mercan Karacabey - Software Engineer
+### Hello I'm Mercan.
 
-Other informations will be added after.
+Computer Engineer.
+Interested in *Web Programming / Data Analytics*
+  - .NET
+  - Angular / VueJS / Javascript.
+  - R / Python
+
+
